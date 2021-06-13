@@ -2,7 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+```
+yarn add --dev eslint eslint-config-prettier prettier @typescript-eslint/parser @typescript-eslint/eslint-plugin
+yarn add --dev @types/node
+```
 
 ```bash
 npm run dev
